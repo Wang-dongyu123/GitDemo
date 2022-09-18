@@ -14,4 +14,4 @@ hello world!
 hello world!
 hello world!master test
 hello world!hot fix test
->>>>>>> hot-fix
+The txt has been modified under GitDemo(remote)!
