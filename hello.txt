@@ -15,3 +15,4 @@ hello world!
 hello world!master test
 hello world!hot fix test
 The txt has been modified under GitDemo(remote)!
+This is a ssh test!
